@@ -1,0 +1,4 @@
+pictionary
+==========
+
+Playing with openCV
